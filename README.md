@@ -1,15 +1,15 @@
-# Rare and Distinctive Collections Moving Image Film and Video
+# Early Photography of Asia
 
 ## Description
-This collection provides access to individual moving image film and video material from diverse Rare and Distinctive Collections.
+This collection provides access to photographs of Asia before World War II and come from diverse Rare and Distinctive Collections.
 
-Permanent address to digital collection: [https://doi.org/10.25810/80m2-fz48](https://doi.org/10.25810/80m2-fz48).<br /> 
+Permanent address to digital collection: [.<br /> 
 Please use the same link when sharing or citing the collection.
 
 ## Metadata
 
 ### Collection Name
-Name of the collection: Rare and Distinctive Collections Moving Image Film and Video
+Name of the collection: Early Photography of Asia
 
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
@@ -17,18 +17,17 @@ Title derived from original captions on the work by the creator. If the original
 ### Name
 Individual(s) or corporate entities that created or are associated with the work. 
 
-Common names seen in the collection include: [WCAU-TV (Television station : Philadelphia, Pa.)](http://id.loc.gov/authorities/names/n50057215)
+Common names seen in the collection include: Kane, Albert E.
 
 ### Resource Type
 A term that specifies the characteristics and general type of content of the resource. 
 
-Type terms used in this collection include: [Moving image](http://id.loc.gov/vocabulary/resourceTypes/mov)
+Type terms used in this collection include: [Still image](http://id.loc.gov/vocabulary/resourceTypes/img)
 
 ### Genre
 A term or terms that designate a category characterizing a particular style, form, or content. 
 
-Genre terms used in the collection include: [Amateur films](http://id.loc.gov/authorities/genreForms/gf2011026038); [Educational films](http://id.loc.gov/authorities/genreForms/gf2011026219)
-
+Genre terms used in the collection include: [black-and-white photographs](http://vocab.getty.edu/page/aat/300128347)
 ### Place Created
 Location of work creation or publication city. 
 
@@ -40,7 +39,7 @@ Publisher not used in this instance.
 ### Date Created
 The date of creation of the resource. 
 
-Date ranges include: 1930s-1970s
+Date ranges include: Circa 1940
 
 ### Date Digitized
 The date on which the resource was digitized or a subsequent snapshot was taken. 
@@ -53,17 +52,17 @@ Contains the textual or coded form for the language of the content of the resour
 Language(s) seen in this collection include: [English](http://id.loc.gov/vocabulary/iso639-2/eng)
 
 ### Extent
-The size or scale of the work. Typically one one film reel.
+The size or scale of the work. Typically one one photograph.
 
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
 
-Form terms include:  [color films (visual works)](http://vocab.getty.edu/page/aat/300417957) ; [black-and-white films (visual works)](http://vocab.getty.edu/page/aat/300417958)
+Form terms include: [portraits](http://vocab.getty.edu/page/aat/300417957); [travel photography](http://vocab.getty.edu/page/aat/300054230)
 
 ### Internet Media Type: 
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
 
-Media type(s) in this collection: [video/mp4](https://www.iana.org/assignments/media-types/video/mp4)
+Media type(s) in this collection: [image/tiff]((https://www.iana.org/assignments/media-types/image/tiff)
 
 ### Digital Origin
 The method by which a resource achieved digital form.
@@ -76,28 +75,28 @@ Additional notes or description of the content of the item. May contain cataloge
 ### Subject Topic
 A term or phrase representing the primary topic(s) on which a work is focused. 
 
-Common subject terms used in this collection include: [Mines and mineral resources](http://id.worldcat.org/fast/1022541); [Ghost towns](http://id.worldcat.org/fast/942431); [Marriage](http://id.worldcat.org/fast/1010443); [Voyages and travels](http://id.worldcat.org/fast/1169308); [Exhibitions](http://id.worldcat.org/fast/918097)  
+Common subject terms used in this collection include: [Temples](http://id.worldcat.org/fast/1147397); [Portrait photography](http://id.worldcat.org/fast/1072259)
 
 ### Subject Name
 A name used as a subject or additional authors, recipients, or names mentioned within the record. Names in this collection are often friends and family to Ann Roy.
 
-Common names include: [Colorado Mountain Club. Boulder Group](http://id.worldcat.org/fast/790056)
+Common names include:
 
 ### Subject Geographic
 Geographic location(s) relevant to the item. 
 
-Some coverage terms used in the collection include: Colorado--Boulder
+Some coverage terms used in the collection include: Guangzhou (Canton, China, Asia); Hangzhou (Zhejiang, China, Asia); Shenyang (Liaoning, China, Asia); Beijing (Hebei, China, Asia)
 
 ### Subject Temporal
 Used for chronological subject terms or temporal coverage. 
 
-Terms used: [Eighteen fifties](http://id.worldcat.org/fast/1762057)
+Terms used:
 
 
 ### Identifier
 Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
 
-Example: U183050988062_narv_cuExtension_conformity_a.mp4
+Example: 
 
 ### Identifier LUNA	
 Original link in LUNA to the resource. 
@@ -105,7 +104,7 @@ Original link in LUNA to the resource.
 ### Identifier ARK
 Controlled, stable link to the resource. 
 
-Example: https://ark.colorado.edu/ark:/47540/h23q3733b4nc
+Example: 
 
 ### Physical Location
 The institution or repository that holds the resource or where it is available: University of Colorado Boulder Libraries Rare and Distinctive Collections
@@ -113,7 +112,7 @@ The institution or repository that holds the resource or where it is available: 
 ### Shelf Locator
 Shelfmark or other shelving designation that indicates the location identifier for a resource. 
 
-Example: COU: 2495
+Example: COU: 905
 
 ### Related Item
 Information that identifies other resources related to the one being described. This includes title, item ID, item ARK, and a term to describe how the item is related.
