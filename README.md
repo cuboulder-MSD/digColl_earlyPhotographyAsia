@@ -39,7 +39,7 @@ Publisher not used in this instance.
 ### Date Created
 The date of creation of the resource. 
 
-Date ranges include: Circa 1940
+Date ranges include: 1917-1940
 
 ### Date Digitized
 The date on which the resource was digitized or a subsequent snapshot was taken. 
@@ -52,7 +52,7 @@ Contains the textual or coded form for the language of the content of the resour
 Language(s) seen in this collection include: [English](http://id.loc.gov/vocabulary/iso639-2/eng)
 
 ### Extent
-The size or scale of the work. Typically one one photograph.
+The size or scale of the work. Typically one photograph or photograph album.
 
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
