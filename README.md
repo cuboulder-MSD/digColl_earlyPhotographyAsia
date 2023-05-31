@@ -1,7 +1,7 @@
-# Early Photography of Asia
+# Early Photography in Asia
 
 ## Description
-The Early Photography of Asia Collection consists of original photographs taken in Asia dating from c. 1860-1940 from a variety of collections in the Libraries’ Rare and Distinctive Collections. The images in this collection, though important documentary evidence of life across Asia, are often depicted from a western perspective, since the advent and spread of early photography happened to correspond with the rise of European colonialism in Asia. Europeans often controlled photography infrastructure (its technology, processing, and printing); therefore, most early photography from Asia tends to be made by western governments, colonists, or tourists. 
+The Early Photography in Asia Collection showcases original photographs taken in Asia dating between 1860 and 1940 from a variety of collections in the Libraries’ Rare and Distinctive Collections. With few exceptions, the images in this collection were taken by people affiliated with the colonial state including Western tourists, colonists, and government officials, who often controlled much of the photography infrastructure in these locations. Therefore, although important documentary evidence of life across Asia, it is important to view these images with a critical eye and consider how these photographs may reinforce orientalist and colonial ideologies and contribute to an “othering” of local people.
 
 Permanent address to digital collection: [https://doi.org/10.25810/1dh0-cx34](https://doi.org/10.25810/1dh0-cx34).<br /> 
 Please use the same link when sharing or citing the collection.
