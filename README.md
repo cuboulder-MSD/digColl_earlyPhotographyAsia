@@ -126,3 +126,8 @@ Rights statement comes from [rightsstatements.org](https://rightsstatements.org/
 
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace
+
+## Metadata Versions
+Version 2: Early_Photography_in_Asia_20251111145607.csv include batches 1 and 2 uploaded to Luna as of November, 2025.
+
+Version 1: Early_Photography_of_Asia_20230202073305.csv includes batch 1 with ARKs.
